@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá! Eu sou washington candido 👊
 
-<!--
-**washingtoncandido/washingtoncandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/washington-candido-42918b193/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/washington.candido/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Washington GitHub stats](https://github-readme-stats.vercel.app/api?username=washingtoncandido&show_icons=true&theme=dracula)
+
+
+## Tecnologias que eu uso no meu dia 
+<div style="display: inline_block">
+  <img align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+   </div>
+   
+   #### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+   
