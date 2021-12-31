@@ -14,5 +14,5 @@
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
    </div>
    
-   #### Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+   #### Apaixonado por tecnologia, e por mudar a vida das pessoas através da programação.
    
